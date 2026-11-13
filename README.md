@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**laisa-beatriz01/laisa-beatriz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou a Laisa Beatriz 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de Ciência da Computação no **Unipê**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Atualmente estou desenvolvendo minha base em programação, com interesse em desenvolvimento Backend e tecnologia.
+
+## 📚 Atualmente estudando
+
+- Lógica de programação e algoritmos
+- Linguagem C e Python
+- Estruturas de dados
+- Git e GitHub
+- Linux e fundamentos de DevOps
+- Desenvolvimento Web
+
+## 🛠️ Tecnologias e ferramentas
+
+- C
+- Python
+- HTML e CSS
+- JavaScript
+- Git e GitHub
+- Linux
+
+## 🎯 Objetivos
+
+Construir uma carreira na área de tecnologia, fortalecendo meus conhecimentos em desenvolvimento de software, Backend e infraestrutura.
+
+## 📂 Repositórios
+
+Neste perfil compartilho meus exercícios, estudos e projetos desenvolvidos durante minha jornada de aprendizagem.
+

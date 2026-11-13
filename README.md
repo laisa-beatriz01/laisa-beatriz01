@@ -1,7 +1,7 @@
 
 # Olá! Eu sou a Laisa Beatriz 👋
 
-🎓 Estudante de Ciência da Computação no **Unipê**.
+🎓 Estudante de Ciência da Computação na **Unipê - Centro Universitário de João Pessoa**.
 
 💻 Atualmente estou desenvolvendo minha base em programação, com interesse em desenvolvimento Backend e tecnologia.
 
